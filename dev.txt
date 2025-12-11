@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 This is dev branch file
-=======
+
 This is second file for dev for dev branch
->>>>>>> dev
+
